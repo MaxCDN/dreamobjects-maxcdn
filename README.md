@@ -21,7 +21,7 @@ A Demo Python Script that will create a Storage Bucket on [DreamObjects](http://
 
 ```shell
 wget https://github.com/netdna/dreamobjects-maxcdn/archive/master.zip
-unzip dreamobjects-maxcdn-master.zip
+unzip master.zip
 cd dreamobjects-maxcdn-master* 
 ```
 
