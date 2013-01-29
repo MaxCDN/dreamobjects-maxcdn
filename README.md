@@ -20,9 +20,11 @@ A Demo Python Script that will create a Storage Bucket on [DreamObjects](http://
 # Installation
 
 `wget https://github...`
+
 `unzip .zip`
+
 `cd master*`
 
 # Usage
 
-`./do-maxcdn-demo.py --access-key=<DreamObject-Key> --secret-key=<DreamObject-Secret> --rws-alias=<NetDNA/MaxCDN-Comapny \ Alias> --rws-key=<NetDNA/MaxCDN-Comapny Key> --rws-secret=<NetDNA/MaxCDN-Comapny Secret>`
+`./do-maxcdn-demo.py --access-key=<DreamObject-Key> --secret-key=<DreamObject-Secret> --rws-alias=<NetDNA/MaxCDN-Comapny Alias> --rws-key=<NetDNA/MaxCDN-Comapny Key> --rws-secret=<NetDNA/MaxCDN-Comapny Secret>`
