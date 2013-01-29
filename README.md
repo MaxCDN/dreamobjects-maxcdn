@@ -32,3 +32,5 @@ cd dreamobjects-maxcdn-master*
 --rws-alias=<NetDNA/MaxCDN-Comapny-Alias> --rws-key=<NetDNA/MaxCDN-Key> \
 --rws-secret=<NetDNA/MaxCDN-Secret>
 ```
+
+![demo.py](https://raw.github.com/netdna/dreamobjects-maxcdn/master/demo.png)
