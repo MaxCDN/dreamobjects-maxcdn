@@ -8,7 +8,7 @@ A Demo Python Script that will create a Storage Bucket on [DreamObjects](http://
  * User
  * Key
  * Secret
-* MaxCDN Account/Alias
+* NetDNA/MaxCDN Account
  * API IP Whitelist
  * API Key
  * API Secret
@@ -27,4 +27,8 @@ A Demo Python Script that will create a Storage Bucket on [DreamObjects](http://
 
 # Usage
 
-`./do-maxcdn-demo.py --access-key=<DreamObject-Key> --secret-key=<DreamObject-Secret> --rws-alias=<NetDNA/MaxCDN-Comapny Alias> --rws-key=<NetDNA/MaxCDN-Comapny Key> --rws-secret=<NetDNA/MaxCDN-Comapny Secret>`
+```shell
+./do-maxcdn-demo.py --access-key=<DreamObject-Key> --secret-key=<DreamObject-Secret> \
+--rws-alias=<NetDNA/MaxCDN-Comapny Alias> --rws-key=<NetDNA/MaxCDN-Comapny Key> \
+--rws-secret=<NetDNA/MaxCDN-Comapny Secret>
+```
